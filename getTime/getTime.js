@@ -16,7 +16,7 @@ class GetTime {
     return this.day.getDate()
   }
   getWeekDay(lang, isShort) {
-    const weekday = this.day.getDate()
+    const weekday = this.day.getDay()
 
     if (lang === "en") {
       switch (weekday) {

@@ -30,10 +30,9 @@ npm run test
 
 ### Example
 
-```javascript=
+```javascript =
 // mock the date object
-const date = new Date('Mon Apr 18 2022 17:31:58 GMT+0800 (台北標準時間)')
-
+const date = new Date("Mon Apr 18 2022 17:31:58 GMT+0800 (台北標準時間)")
 
 const timerHandler = new GetTime(date)
 

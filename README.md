@@ -1,6 +1,6 @@
 # Declaration Files Practice
 
-The goal of this project is to collect the function I wrote in projects amd hope can be used in multiple projects.
+The goal of this project is to collect the function I wrote in projects and hope can be used in multiple projects.
 
 - If you click the method in example, it will link to declaration file and also show the description when you hover the function.
 - Practice to use "Class" to achieve the goal of Object-oriented programming. :heart_eyes:
